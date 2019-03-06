@@ -23,14 +23,14 @@ c = Intercept
 
 GOAL:-
 
-     we are going to find slope and intercept result that has least errors error means difference between actual value and predicted value.we will try to find best line possible.
+we are going to find slope and intercept result that has least errors error means difference between actual value and predicted value.we will try to find best line possible.
 
 Dataset:-
 We are going to use Kaggle Automobile Dataset to understand the concept of Linear Regression.(Link below)
 
      https://www.kaggle.com/toramky/automobile-dataset/version/2
 
-after that we will perform some basic step of understanding the data, convrting to int, removing missing data.
+After that we will perform some basic step of understanding the data, convrting to int, removing missing data.
 
 First we have to find the correlation in dataset. so, we can findout which columns has strong correlation.I have used pearson corrleation coeficient. I showed correlation by using both library scipy and pandas.
 
