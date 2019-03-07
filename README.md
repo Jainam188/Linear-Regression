@@ -1,4 +1,4 @@
-# Linear-Regression-Example
+# Linear-Regression
 Understanding of Linear Regression
 
 Why we use Regression
