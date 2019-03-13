@@ -39,3 +39,5 @@ Next, I used Bokeh to plotting the data in scatter plot.
 After That i imported sklearn to use Linear Regression Algorithm and fit both variable in my model and find the slope and interception.
 
 Finally i plotted the best line in my scatter plott.
+
+Also attached final scatter plot image
